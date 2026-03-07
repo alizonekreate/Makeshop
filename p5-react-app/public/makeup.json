@@ -1,0 +1,90 @@
+[
+  {
+    "id": "local-3001",
+    "title": "Soft Matte Lipstick - Nude Bloom",
+    "price": 14.99,
+    "category": "lipstick",
+    "description": "Creamy nude lipstick with soft satin matte finish.",
+    "image": "/images/lipstick-nude.jpg"
+  },
+  {
+    "id": "local-3002",
+    "title": "Velvet Matte Lipstick - Classic Red",
+    "price": 16.50,
+    "category": "lipstick",
+    "description": "Bold red lipstick with long-lasting matte texture.",
+    "image": "/images/lipstick-red.jpg"
+  },
+  {
+    "id": "local-3003",
+    "title": "Glossy Lipstick - Berry Crush",
+    "price": 15.75,
+    "category": "lipstick",
+    "description": "Hydrating berry tone with glossy shine.",
+    "image": "/images/lipstick-berry.jpg"
+  },
+  {
+    "id": "local-3004",
+    "title": "Glow Blush - Coral Dream",
+    "price": 18.00,
+    "category": "blush",
+    "description": "Soft coral blush that enhances natural glow.",
+    "image": "/images/blush-coral.jpg"
+  },
+  {
+    "id": "local-3005",
+    "title": "Radiant Blush - Rose Pink",
+    "price": 17.50,
+    "category": "blush",
+    "description": "Fresh rose shade for youthful cheeks.",
+    "image": "/images/blush-rose.jpg"
+  },
+  {
+    "id": "local-3006",
+    "title": "Hydra Glow Foundation - Ivory",
+    "price": 24.99,
+    "category": "foundation",
+    "description": "Lightweight coverage with dewy finish.",
+    "image": "/images/foundation-ivory.jpg"
+  },
+  {
+    "id": "local-3007",
+    "title": "Smooth Finish Foundation - Beige",
+    "price": 26.50,
+    "category": "foundation",
+    "description": "Medium coverage with natural skin finish.",
+    "image": "/images/foundation-beige.jpg"
+  },
+  {
+    "id": "local-3008",
+    "title": "Pastel Glam Eyeshadow Palette",
+    "price": 29.99,
+    "category": "eyeshadow",
+    "description": "Soft pastel shades perfect for everyday glam.",
+    "image": "/images/eyeshadow-pastel.jpg"
+  },
+  {
+    "id": "local-3009",
+    "title": "Lash Volume Mascara",
+    "price": 13.99,
+    "category": "mascara",
+    "description": "Intense black mascara for fuller lashes.",
+    "image": "/images/mascara-volume.jpg"
+  },
+  {
+    "id": "local-3010",
+    "title": "Precision Brow Pencil - Ash Brown",
+    "price": 11.50,
+    "category": "brow",
+    "description": "Fine tip brow pencil for natural definition.",
+    "image": "/images/brow-pencil.jpg"
+  },
+  {
+    "id": "local-3011",
+    "title": "Longwear Setting Spray - Fresh Mist",
+    "price": 17.99,
+    "category": "setting-spray",
+    "description": "Locks makeup in place for all-day wear.",
+    "image": "/images/setting-spray.jpg"
+  }
+]
