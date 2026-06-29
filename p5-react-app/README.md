@@ -1,4 +1,4 @@
-```md
+
 # MakeShop E-commerce
 
 MakeShop is a responsive React e-commerce single-page application that allows users to browse products, view product details, manage a shopping cart, and go through a checkout flow.
@@ -58,4 +58,4 @@ This project was built to practice creating a real-world React single-page appli
 **Alison Kate Lachica**  
 Junior Full-Stack Developer  
 GitHub: https://github.com/alizonekreate
-```
+
